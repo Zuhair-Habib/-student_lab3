@@ -1,1 +1,1 @@
-update in clone folder
+HOW TO RUN LAB INSTRUCTIONS
